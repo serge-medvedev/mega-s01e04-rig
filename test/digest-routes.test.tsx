@@ -33,7 +33,7 @@ const expectedRows: DigestRow[] = [
     lastStatus: 'ok',
     lastError: 'temporary outage',
     firstAt: '2026-10-28T08:01:00+02:00',
-    lastAt: '2026-10-28T08:04:00+02:00',
+    lastAt: '2026-10-28T08:05:00+02:00',
     hasFailure: true,
   },
 ];
